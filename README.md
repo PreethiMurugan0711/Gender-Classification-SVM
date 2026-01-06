@@ -1,4 +1,4 @@
-Gender Classification using SVM 
+Gender Classification using SVM //
 Project Overview
 This project involves building a classification model to predict gender based on specific physical and demographic features. By using Support Vector Machines (SVM), I am exploring how high-dimensional boundaries can be used to separate classes effectively.
 
